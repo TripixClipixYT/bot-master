@@ -34,7 +34,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "kind-of": "^3.0.2"
+    "kind-of": "^6.0.3"
   },
   "deprecated": false,
   "description": "Create an object path from a list or array of strings.",
